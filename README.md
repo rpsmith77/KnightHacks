@@ -1,5 +1,5 @@
 # Knight Hacks 2020 Virtual Hackathon
-My goal was to come out of this weekend with a pathfinding algorithm vizualizer. I maneged to get the A* Search algorithm done. I used pygame to to visualize the algorithim. The window was broken up into column and rows, with each square representing Node.
+My goal was to come out of this weekend with a pathfinding algorithm visualizer. I maneged to get the A* Search algorithm done. I used pygame to to visualize the algorithm. The window was broken up into column and rows, with each square representing Node.
 # Description
 The A* searching algorithm, further explained [here](https://brilliant.org/wiki/a-star-search/)<br/>
 It uses concepts from Eulerian graph theory. The basics of this algorithms : <br/>
