@@ -17,6 +17,9 @@ h(n) can be calculated differnt ways, but these are the main 2
 
 Manhattan Distance Heureistic is quicker to calculate, but the Euclidean
 Distance Heuristic created more realistic paths, so I went with the latter
+
+Tech with Tim's youtube channel helped me figure out how to take this
+algorithm and make code out of it
 """
 import math
 from queue import PriorityQueue
