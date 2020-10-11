@@ -17,6 +17,7 @@ Manhattan Distance Heureistic is quicker to calculate, but the Euclidean
 Distance Heuristic created more realistic paths, so I went with the latter
 # Credit
 
+ - [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
  - [Brilliant's A* Search page](https://brilliant.org/wiki/a-star-search/)
  - A plethora of frantic google searches
  - Coffee
