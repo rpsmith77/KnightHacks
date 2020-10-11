@@ -1,0 +1,31 @@
+"""
+File with RGB colors
+"""
+# Standard RGB colors
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+LIME = (0, 255, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+CYAN = (0, 255, 255)
+MAGENTA = (255, 0, 255)
+SILVER = (192, 192, 192)
+GRAY = (128, 128, 128)
+MAROON = (128, 0, 0)
+OLIVE = (128, 128, 0)
+GREEN = (0, 128, 0)
+PURPLE = (128, 0, 128)
+TEAL = (0, 128, 128)
+NAVY = (0, 0, 128)
+
+# Fancy RGB colors from
+# https://coolors.co/203a44-264653-287271-2a9d8f-8ab17d-e9c46a-f4a261-e76f51
+GUNMETAL_BLUE = (32, 58, 68)
+CHARCOAL = (38, 70, 83)
+SKOBELOFF = (40, 114, 113)
+PERSIAN_GREEN = (42, 157, 143)
+ASPARAGUS = (138, 177, 125)
+ORANGE_YELLOW = (233, 196, 106)
+SANDY_BROWN = (244, 162, 97)
+BURNT_SIENNA = (231, 111, 81)
