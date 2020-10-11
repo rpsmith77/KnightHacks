@@ -9,7 +9,7 @@ f(n) = total estimated cost of path through node n<br/>
 g(n) = cost so far to reach node n<br/>
 h(n) = estimated cost from nn to goal. This is the heuristic part of the  
  cost function, so it is like a guess. <br/>
-h(n) can be calculated differnt ways, but these are the main 2<br/>  
+h(n) can be calculated different ways, but these are the main 2<br/>  
  Manhattan Distance Heuristic abs(x_start - x_end) + abs(y_start - y_end)<br
  /> Euclidean Distance Heuristic sqrt((x_start - x_end)^2 + (y_start - y_end
  )^2)<br/> <br>
